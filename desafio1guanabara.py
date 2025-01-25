@@ -10,4 +10,4 @@ print ('O' ,nome, 'nasceu no dia', Dia, 'de', Mês, 'de', Ano, 'correto?')
 
 input ('sim')
 
- 
+ print ('teste')
